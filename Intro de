@@ -1,4 +1,10 @@
-Amay jain
-Bt 17 cse 0101
-VNIT
-CSE
+#include<stdio.h>
+main()
+{
+
+    printf("
+        Amay jain
+        Bt 17 cse 0101
+        VNIT
+        CSE");
+        }
